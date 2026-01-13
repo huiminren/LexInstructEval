@@ -56,7 +56,6 @@ Clone this repository and install the required packages:
 ```bash
 git clone https://github.com/huiminren/LexInstructEval.git
 cd LexInstructEval
-pip install -r requirements.txt
 ```
 
 ### 2. Inference (Model Generation)
